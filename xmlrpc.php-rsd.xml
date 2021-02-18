@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?><rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
+  <service>
+    <engineName>EklaBlog</engineName>
+    <engineLink>http://www.eklablog.com/</engineLink>
+    <homePageLink>http://www.chocolatlitteraire.fr/</homePageLink>
+    <apis>
+      <api name="MetaWeblog" blogID="28462036" preferred="true" apiLink="http://www.chocolatlitteraire.fr/xmlrpc.php" />
+      <api name="WordPress" blogID="28462036" preferred="false" apiLink="http://www.chocolatlitteraire.fr/xmlrpc.php" />
+      <api name="Movable Type" blogID="28462036" preferred="false" apiLink="http://www.chocolatlitteraire.fr/xmlrpc.php" />
+      <api name="Blogger" blogID="28462036" preferred="false" apiLink="http://www.chocolatlitteraire.fr/xmlrpc.php" />
+    </apis>
+  </service>
+</rsd>
